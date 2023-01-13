@@ -1,0 +1,10 @@
+{
+  "name": "decorations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gilson Alves <gilsonalvesdesouza@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
